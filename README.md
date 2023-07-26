@@ -30,12 +30,6 @@
 <img width="1423" alt="Screenshot 2023-07-26 at 4 05 38 PM" src="https://github.com/saumya9348/cara-lifestyle/assets/76509858/81943243-1e93-4346-a802-030d3f44b942">
 
 
-<img width="1428" alt="Screenshot 2023-07-26 at 4 06 43 PM" src="https://github.com/saumya9348/cara-lifestyle/assets/76509858/80ad8df0-64ed-4fe7-aa51-94d923d5377a">
-
-
-<img width="1436" alt="Screenshot 2023-07-26 at 4 07 52 PM" src="https://github.com/saumya9348/cara-lifestyle/assets/76509858/ef4803b1-7a91-4548-a937-3fcaaf0a2cbb">
-
-
 
 #### Tech Stack and UI/UX:
  The e-commerce app is meticulously crafted using a cutting-edge tech stack, including React, JavaScript, SCSS, and CSS. React's powerful frontend capabilities enable a smooth, responsive, and interactive user interface. SCSS and CSS were leveraged to ensure aesthetically pleasing and consistent designs throughout the app.
