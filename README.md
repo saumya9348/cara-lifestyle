@@ -45,7 +45,3 @@
 <img width="1436" alt="Screenshot 2023-07-26 at 4 07 52 PM" src="https://github.com/saumya9348/cara-lifestyle/assets/76509858/ef4803b1-7a91-4548-a937-3fcaaf0a2cbb">
 
 
-<img width="1440" alt="Screenshot 2023-07-26 at 4 08 13 PM" src="https://github.com/saumya9348/cara-lifestyle/assets/76509858/2f4a1fac-e319-4b84-ae97-56c5daaf7fcd">
-
-
-<img width="591" alt="Screenshot 2023-07-26 at 4 08 50 PM" src="https://github.com/saumya9348/cara-lifestyle/assets/76509858/06af658e-96d5-40c7-927a-2853546e6978">
